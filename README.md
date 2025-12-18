@@ -22,9 +22,29 @@ This project explores, analyzes, and models restaurant data using Python. The wo
 - Data Visualization: Visualize distributions, compare ratings by cuisine/city, and explore feature relationships.
 
 ## How to Run
-1. Install requirements: `pip install -r requirements.txt`
-2. Open and run the notebook `check.ipynb` in Jupyter or VS Code.
-3. Follow the notebook cells for stepwise analysis and modeling.
+
+## Using a Virtual Environment (Recommended)
+It is recommended to use a Python virtual environment to manage dependencies and avoid conflicts:
+
+1. Create a virtual environment:
+	```bash
+	python -m venv venv
+	```
+2. Activate the virtual environment:
+	- On Windows:
+	  ```bash
+	  venv\Scripts\activate
+	  ```
+	- On macOS/Linux:
+	  ```bash
+	  source venv/bin/activate
+	  ```
+3. Install requirements:
+	```bash
+	pip install -r requirements.txt
+	```
+4. Open and run the notebook `check.ipynb` in Jupyter or VS Code.
+5. Follow the notebook cells for stepwise analysis and modeling.
 
 ## Requirements
 See `requirements.txt` for all dependencies.
