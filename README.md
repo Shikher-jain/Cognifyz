@@ -37,4 +37,4 @@ See `requirements.txt` for all dependencies.
 
 ---
 
-**Author:** Your Name
+**Author:** Shikher Jain
